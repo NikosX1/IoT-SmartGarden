@@ -10,10 +10,10 @@ Also provide information about air temperature, air humidity and water tank leve
 
 ## Hardware Prerequisites
 
-- rasberry pi zero w
+- Raspberry Pi Zero W
 - Soil Hygrometer sensor
-- Distance sensor HC-SR04
-- Temperature-Humidity Sensor DHT11
+- Distance sensor (HC-SR04)
+- Temperature-Humidity Sensor (DHT11)
 - 12V PSU
 - 12V pump
 - 3.3V Relay
