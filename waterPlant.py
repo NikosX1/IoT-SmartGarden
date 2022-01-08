@@ -118,13 +118,14 @@ def sendInfo(soil,w_level,temp,humid):
 
 
 def checkPlant():
-    if( checkSoil() == "No Water"):
-        water()
-
+    if (checkSoil() == "No Water"):
+        if (checkWater() != 0):
+            water()
+        else:
+            sendInfo(checkSoil(),checkWater(),checkTemperature(),checkHumidity())
 
 if __name__ == '__main__':
     try:
-#        checkWater()
         checkGmail()
         checkPlant()
     finally:
