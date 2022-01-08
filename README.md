@@ -40,7 +40,7 @@ The connections diagram can be found [here](https://github.com/NikosX1/IoT-Smart
 ## How to use
 User can send an empty email with the desirable command in the subject area of the email. 
 If the program detects an email-command it will mark it as read and then execute the user command.
-Available commands are: `get info`, `water plant`
+- Available commands are: `get info`, `water plant`
 
 Crontab will execute the script every minute. The script first checks the user email to see if there are new commands and executes them. 
 Then checks soil humidity level of the plant. If the plant has low soil humidity then it automatically waters the plant by opening the water pump.
