@@ -13,7 +13,7 @@ Also provide information about air temperature, air humidity and water tank leve
 - Raspberry Pi Zero W
 - Soil Hygrometer sensor
 - Distance sensor (HC-SR04)
-- 330Ω and 470Ω Capacitors
+- 330Ω and 470Ω Resistors
 - Temperature-Humidity Sensor (DHT11)
 - 12V PSU
 - 12V pump
