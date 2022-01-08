@@ -36,8 +36,18 @@ The connections diagram can be found [here](https://github.com/NikosX1/IoT-Smart
 4. Execute `sudo chmod +x waterPlant.py`
 5. Finally execute `crontab -e` and add the bottom line: `* * * * * /path_to_program/Iot-SmartGarden/waterPlant.py `
 
+
+## How to use
+User can send an empty email with the desirable command in the subject area of the email. 
+If the program detects an email-command it will mark it as read and then execute the user command.
+Available commands are: `get info`, `water plant`
+
+Crontab will execute the script every minute. The script first checks the user email to see if there are new commands and executes them. 
+Then checks soil humidity level of the plant. If the plant has low soil humidity then it automatically waters the plant by opening the water pump.
+Also checks the water level of the reservoir. If the reservoir doesn't contain any water left then it doesnt open the water pump and sends email
+with status of the plant to user. 
+
 ### Info
- 
  Class: Internet of Things</br>
  Author: ΝΙΚΟΛΑΟΣ ΧΡΟΝΟΠΟΥΛΟΣ ΑΜ:131094</br>
  Semester: Fall 2021</br></br>
