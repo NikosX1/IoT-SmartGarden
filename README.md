@@ -13,11 +13,18 @@ Also provide information about air temperature, air humidity and water tank leve
 - Raspberry Pi Zero W
 - Soil Hygrometer sensor
 - Distance sensor (HC-SR04)
+- 330Ω and 470Ω Capacitors
 - Temperature-Humidity Sensor (DHT11)
 - 12V PSU
 - 12V pump
 - 3.3V Relay
 - Water tank reservoir
+
+Also you will need a soldering iron, some jumper cables and silicon tubes for the water pump.
+
+## Installation
+1. Connect to Pi Zero via SSH
+2. Clone this repo:`https://github.com/NikosX1/IoT-SmartGarden`
 
 ### Info
  
