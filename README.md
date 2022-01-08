@@ -22,6 +22,9 @@ Also provide information about air temperature, air humidity and water tank leve
 
 Also you will need a soldering iron, some jumper cables and silicon tubes for the water pump.
 
+![Connection Diagram](https://github.com/NikosX1/IoT-SmartGarden/blob/main/diagrams/PI-DIAGRAM.pdf)
+
+
 ## Installation
 1. Connect to Pi Zero via SSH
 2. Clone this repo:`https://github.com/NikosX1/IoT-SmartGarden`
