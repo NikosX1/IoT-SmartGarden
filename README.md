@@ -25,7 +25,7 @@ You have to generate an app password from [here](https://myaccount.google.com/ap
 
 Also you will need a soldering iron, some jumper cables and silicon tubes for the water pump.
 
-The connection diagram can be found [here](https://github.com/NikosX1/IoT-SmartGarden/blob/main/diagrams/PI-DIAGRAM.pdf).
+The connections diagram can be found [here](https://github.com/NikosX1/IoT-SmartGarden/blob/main/diagrams/PI-DIAGRAM.pdf).
 
 
 
