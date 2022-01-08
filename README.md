@@ -22,7 +22,7 @@ Also provide information about air temperature, air humidity and water tank leve
 
 Also you will need a soldering iron, some jumper cables and silicon tubes for the water pump.
 
-The connection diagram can be found [here](https://raw.githubusercontent.com/NikosX1/IoT-SmartGarden/blob/main/diagrams/PI-DIAGRAM.pdf).
+The connection diagram can be found [here](https://github.com/NikosX1/IoT-SmartGarden/blob/main/diagrams/PI-DIAGRAM.pdf).
 
 
 ## Installation
