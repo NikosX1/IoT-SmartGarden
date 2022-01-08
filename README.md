@@ -19,10 +19,14 @@ Also provide information about air temperature, air humidity and water tank leve
 - 12V pump
 - 3.3V Relay
 - Water tank reservoir
+- Gmail Account with 2 factor Authenication
+
+You have to generate an app password from [here](https://myaccount.google.com/apppasswords) in order to put it in the code as your email password.
 
 Also you will need a soldering iron, some jumper cables and silicon tubes for the water pump.
 
 The connection diagram can be found [here](https://github.com/NikosX1/IoT-SmartGarden/blob/main/diagrams/PI-DIAGRAM.pdf).
+
 
 
 ## Installation
