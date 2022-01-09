@@ -32,7 +32,7 @@ The connections diagram can be found [here](https://github.com/NikosX1/IoT-Smart
 ## Installation
 1. Connect to Pi Zero via SSH
 2. Clone this repo:`https://github.com/NikosX1/IoT-SmartGarden`
-3. In file waterPlant.py you have to put your email credentials (username/app-password) in the lines 14,15.
+3. In file `waterPlant.py` you have to put your email credentials (username/app-password) in the lines 14,15.
 4. Execute `sudo chmod +x waterPlant.py`
 5. Finally execute `crontab -e` and add the bottom line: `* * * * * /path_to_program/Iot-SmartGarden/waterPlant.py `
 
