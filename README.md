@@ -18,7 +18,7 @@ Also provide information about air temperature, air humidity and water tank leve
 - 12V PSU
 - 12V pump
 - 3.3V Relay
-- Water tank reservoir
+- Water tank reservoir (approximately 16cm tall)
 - Gmail Account with 2 factor Authentication
 
 You have to generate an app password from [here](https://myaccount.google.com/apppasswords) in order to put it in the code as your email password.
