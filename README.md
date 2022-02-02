@@ -1,7 +1,6 @@
 # IoT-SmartGarden
 ### _Semester project for Internet of Things lab class_
 
-![Build Status](https://ci.appveyor.com/api/projects/status/%7B%7Bstatus_id%7D%7D)
 
 ## About this project
 The goal of this project is to create an iot device which will be reliable in order to water garden plants when humidity of the soil is low.
